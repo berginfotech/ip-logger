@@ -1,7 +1,1 @@
-{
-  "functions": {
-    "api/log-ip.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
-}
+{}
