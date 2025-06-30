@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/log-ip.js": {
+      "runtime": "edge"
+    }
+  }
+}
